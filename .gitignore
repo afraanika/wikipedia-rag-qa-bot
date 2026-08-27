@@ -1,3 +1,12 @@
 CONTRIBUTING.md
 progress.md
 docs/style-examples.md
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Local secrets and data
+.env
+.chroma/
